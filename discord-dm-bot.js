@@ -1,8 +1,8 @@
 const { Client, GatewayIntentBits } = require('discord.js');
 
 // ===== الإعدادات =====
-const TOKEN = 'ضع_توكن_البوت_هنا';        // توكن البوت من Discord Developer Portal
-const GUILD_ID = 'ضع_ايدي_السيرفر_هنا';   // ID السيرفر اللي تبي تراسل أعضاءه
+const TOKEN = 'MTQ3MjY4NjMxNDgzNDEwNDU5Ng.GQvUDE.ZOl9KcItewWIyXV9H5i2uqX6Pi_MBk4caFfL0c';        // Discord Developer Portal
+const GUILD_ID = '1145855468007342242';   // ID السيرفر اللي تبي تراسل أعضاءه
 const MAX_DMS = 20;                          // عدد الأعضاء اللي تبي تراسلهم
 const DELAY_MS = 3000;                       // تأخير بين كل رسالة (3 ثواني) لتجنب الحظر
 
